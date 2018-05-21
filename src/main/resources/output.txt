@@ -1,0 +1,83 @@
+Sales logs after 10th sales...
+20 sales at the price 10 for the product MANGO
+21 sales at the price 27 for the product ORANGE
+2 sales at the price 110 for the product APPLE
+Sales logs after 20th sales...
+20 sales at the price 10 for the product MANGO
+62 sales at the price 53 for the product ORANGE
+3 sales at the price 930 for the product APPLE
+Sales logs after 30th sales...
+21 sales at the price 20 for the product MANGO
+21 sales at the price 44 for the product AVOCADO
+82 sales at the price 55 for the product ORANGE
+1 sale at the price 10 for the product BANANA
+3 sales at the price 7500 for the product APPLE
+Sales logs after 40th sales...
+21 sales at the price 20 for the product MANGO
+21 sales at the price 44 for the product AVOCADO
+103 sales at the price 56 for the product ORANGE
+21 sales at the price 20 for the product BANANA
+4 sales at the price 60061 for the product APPLE
+Sales logs after 50th sales...
+21 sales at the price 16 for the product MANGO
+21 sales at the price 44 for the product AVOCADO
+124 sales at the price 87 for the product ORANGE
+41 sales at the price 150 for the product BANANA
+4 sales at the price 480488 for the product APPLE
+Memory came up to the limit, no more message will be accepted...
+Adjustment logs...
+Adjustment logs for MANGO
+MessageId #5: 20 sales with the price 10
+MessageId #30: 1 sale with the price 10
+MessageId #46: SUBTRACT operation with the value: 2
+Adjustment logs for AVOCADO
+MessageId #21: 20 sales with the price 34
+MessageId #23: 1 sale with the price 10
+Adjustment logs for ORANGE
+MessageId #2: 20 sales with the price 21
+MessageId #4: 1 sale with the price 10
+MessageId #7: SUBTRACT operation with the value: 2
+MessageId #11: 20 sales with the price 17
+MessageId #13: 1 sale with the price 10
+MessageId #14: 20 sales with the price 19
+MessageId #16: SUBTRACT operation with the value: 2
+MessageId #17: SUBTRACT operation with the value: 2
+MessageId #24: 20 sales with the price 14
+MessageId #26: SUBTRACT operation with the value: 2
+MessageId #31: 20 sales with the price 23
+MessageId #33: 1 sale with the price 10
+MessageId #36: SUBTRACT operation with the value: 2
+MessageId #37: SUBTRACT operation with the value: 2
+MessageId #41: 20 sales with the price 41
+MessageId #43: 1 sale with the price 10
+MessageId #47: SUBTRACT operation with the value: 2
+Adjustment logs for BANANA
+MessageId #27: 1 sale with the price 10
+MessageId #34: 20 sales with the price 10
+MessageId #44: 20 sales with the price 10
+MessageId #49: ADD operation with the value: 20
+MessageId #50: ADD operation with the value: 20
+Adjustment logs for APPLE
+MessageId #1: 1 sale with the price 10
+MessageId #3: MULTIPLY operation with the value: 2
+MessageId #6: MULTIPLY operation with the value: 2
+MessageId #8: MULTIPLY operation with the value: 2
+MessageId #9: ADD operation with the value: 20
+MessageId #10: 1 sale with the price 10
+MessageId #12: MULTIPLY operation with the value: 2
+MessageId #15: MULTIPLY operation with the value: 2
+MessageId #18: MULTIPLY operation with the value: 2
+MessageId #19: ADD operation with the value: 20
+MessageId #20: 1 sale with the price 10
+MessageId #22: MULTIPLY operation with the value: 2
+MessageId #25: MULTIPLY operation with the value: 2
+MessageId #28: MULTIPLY operation with the value: 2
+MessageId #29: ADD operation with the value: 20
+MessageId #32: MULTIPLY operation with the value: 2
+MessageId #35: MULTIPLY operation with the value: 2
+MessageId #38: MULTIPLY operation with the value: 2
+MessageId #39: ADD operation with the value: 20
+MessageId #40: 1 sale with the price 1
+MessageId #42: MULTIPLY operation with the value: 2
+MessageId #45: MULTIPLY operation with the value: 2
+MessageId #48: MULTIPLY operation with the value: 2

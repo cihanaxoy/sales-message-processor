@@ -1,0 +1,50 @@
+apple at 10p
+20 sales of oranges at 21p each
+Multiply 2p apples
+orange at 10p
+20 sales of mangos at 10p each
+Multiply 2p apples
+Subtract 2p oranges
+Multiply 2p apples
+Add 20p apples
+apple at 10p
+20 sales of oranges at 17p each
+Multiply 2p apples
+orange at 10p
+20 sales of oranges at 19p each
+Multiply 2p apples
+Subtract 2p oranges
+Subtract 2p oranges
+Multiply 2p apples
+Add 20p apples
+apple at 10p
+20 sales of avocados at 34p each
+Multiply 2p apples
+avocado at 10p
+20 sales of oranges at 14p each
+Multiply 2p apples
+Subtract 2p oranges
+banana at 10p
+Multiply 2p apples
+Add 20p apples
+mango at 10p
+20 sales of oranges at 23p each
+Multiply 2p apples
+orange at 10p
+20 sales of bananas at 10p each
+Multiply 2p apples
+Subtract 2p oranges
+Subtract 2p oranges
+Multiply 2p apples
+Add 20p apples
+apple at 1p
+20 sales of oranges at 41p each
+Multiply 2p apples
+orange at 10p
+20 sales of bananas at 10p each
+Multiply 2p apples
+Subtract 2p mangos
+Subtract 2p oranges
+Multiply 2p apples
+Add 20p bananas
+Add 20p bananas
